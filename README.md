@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maheshbvv
-- 👀 I’m interested in Python and Django
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Django
+- 👀 I’m interested in Flutter and Firebase
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me https://github.com/maheshbvv
 
 <!---
