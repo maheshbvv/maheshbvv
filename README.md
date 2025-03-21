@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter and Firebase
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter
-- 📫 How to reach me https://github.com/maheshbvv
+- 📫 How to reach me reach@pendura.in
 
 <!---
 maheshbvv/maheshbvv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
