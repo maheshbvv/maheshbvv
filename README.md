@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maheshbvv
+- 👋 Hi, I’m Mahesh
 - 👀 I’m interested in Flutter and Firebase
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter
